@@ -2,3 +2,4 @@
 justsendapp.iml
 gen/
 out/
+proguard_logs/
